@@ -1,8 +1,5 @@
 Description
 -----------
-
-*this is ubi*
-
 This is a python library for simulation of mobility and contact models.
 
 The following mobility models that simulate node movements are available:
